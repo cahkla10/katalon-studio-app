@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRT001 - User want to add cart from products page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2284d42-4a2c-4a68-b193-b4b238b773b9</testCaseGuid>
+</TestCaseEntity>

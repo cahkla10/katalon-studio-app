@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLS004 - User want to sort by products price descending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e52e90e9-cb68-4ed0-b6a9-8f1b5409391d</testCaseGuid>
+</TestCaseEntity>

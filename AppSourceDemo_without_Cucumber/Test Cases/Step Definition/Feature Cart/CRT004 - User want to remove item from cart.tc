@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRT004 - User want to remove item from cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>363eced1-e4e2-48b7-a804-176ae2b9c6c3</testCaseGuid>
+</TestCaseEntity>

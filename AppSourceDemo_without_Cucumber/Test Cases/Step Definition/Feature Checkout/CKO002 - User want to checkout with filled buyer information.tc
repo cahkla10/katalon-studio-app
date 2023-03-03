@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CKO002 - User want to checkout with filled buyer information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc66b88d-d8d6-43ac-8b4d-20349d989da5</testCaseGuid>
+</TestCaseEntity>
